@@ -16,7 +16,16 @@ sitio web
 Bifurca (fork) y clona (clone) este lab en tu entorno local. Navega a su directorio en la terminal, luego ejecuta el comando `code .` para abrir sus archivos en Visual Studio Code. 
 
 1. Escribe la declaración `<!DOCTYPE html>` al principio del documento html.
+
 2. Inserta las etiquetas de apertura y cierre `<html></html>`.
-3. Agrega el elemento `head`.
-4. Agrega las etiquetas de apertura y cierre `<p></p>` entre el elemento `head` y añade
-   “Los lenguajes del navegador” entre el elemento p.
+
+3. Agrega el elemento `head` dentro de las etiquetas html.
+
+4. Agrega las etiquetas de apertura y cierre `<title></title> `dentro del elemento `head`. Agrega “Los lenguajes del navegador” dentro del elemento `title`.
+
+5. Guarda tus cambios (Archivo>Guardar).
+
+6. Abre `index.html` en el navegador y verifica que el título de la pestaña de tu navegador muestre  el texto “Los lenguajes del navegador”. Recuerda guardar tus cambios antes de abrir `index.html`, de lo contrario, no podrás ver tus cambios reflejados en el navegador. 
+
+7. Sube tus cambios a Github y envía por Canvas el enlace a tu repositorio.
+
